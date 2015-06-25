@@ -4,7 +4,7 @@
 
 (struct interval (small big))
 
-(define TEXT-SIZE 15)
+(define TEXT-SIZE 25)
 (define HELP-TEXT
   (text "UP ARROW for larger number, DOWN ARROW for smaller ones"
         TEXT-SIZE
